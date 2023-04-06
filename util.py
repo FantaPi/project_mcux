@@ -12,7 +12,7 @@ import logging
 import subprocess
 import threading
 from threading import Timer
-# from packaging import version
+from packaging import version
 from exceptions import ProcessTimeout
 
 
